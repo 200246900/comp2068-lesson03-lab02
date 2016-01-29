@@ -1,0 +1,19 @@
+{
+  "name": "comp2068",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "200246900 <200246900@student.georgianc.on.ca>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "Scribs/lib",
+    "test",
+    "tests"
+  ]
+}
